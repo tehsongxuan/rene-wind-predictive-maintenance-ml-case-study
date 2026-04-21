@@ -1,2 +1,1 @@
-# rene-wind-predictive-maintenance-ml-case-study
-Predictive maintenance case study using wind turbine sensor data to identify generator failures early through recall-focused neural networks, translating model insights into risk-aware maintenance decisions, cost optimisation, and scalable AI-driven operational strategies.
+file:///C:/Teh%20Song%20Xuan/Great%20Learning_Texas_McCombs%20School%20of%20Business/Materials/16th%20March%2026_Introd%20to%20Neural%20Networks_ReneWind_Proj/For%20Submission/TehSongXuan_INN_ReneWind_Project_FullCode.html
