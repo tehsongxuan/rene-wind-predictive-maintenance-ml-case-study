@@ -1,4 +1,4 @@
-TehSongXuan_INN_ReneWind_Project_FullCode.html
+[TehSongXuan_INN_ReneWind_Project_FullCode.html](https://github.com/user-attachments/files/26934332/TehSongXuan_INN_ReneWind_Project_FullCode.html)
 # ReneWind Predictive Maintenance ML Case Study
 
 Failure prediction for wind turbine generators using sensor data, neural network modelling, and recall-focused optimisation.
