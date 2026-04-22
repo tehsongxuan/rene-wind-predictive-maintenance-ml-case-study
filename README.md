@@ -75,7 +75,7 @@ It also shows the importance of aligning model evaluation with business cost log
 - `docs/` — optional GitHub Pages version for browser viewing
 
 ## View the Full Project
-- [Open the full HTML notebook](./TehSongXuan_INN_ReneWind_Project_FullCode.html)
+[TehSongXuan_INN_ReneWind_Project_FullCode.html](https://github.com/user-attachments/files/26934332/TehSongXuan_INN_ReneWind_Project_FullCode.html
 
 ## Tools Used
 - Python
